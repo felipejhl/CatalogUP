@@ -71,7 +71,7 @@ O arquivo `produtos.csv` deve conter as seguintes colunas:
 
 5. Verifique se os produtos estão sendo cadastrados corretamente no sistema.
 
-### ⚠️Atenção: Como Cancelar a Execução
+### ⚠️Como Cancelar a Execução
 
 O `pyautogui` controla o mouse e o teclado automaticamente, o que pode dificultar o uso do computador enquanto o código está em execução. Para interromper o script:
 
