@@ -15,8 +15,7 @@ Este projeto é uma automação de cadastro de produtos em um sistema web utiliz
 - Bibliotecas: `pyautogui`, `pandas`
 - Navegador Google Chrome
 
-### 
-🔎Observações
+### 🔎Observações
 
 Para que o código funcione corretamente, é necessário ajustar as coordenadas dos cliques conforme o monitor do usuário. Isso é feito com o arquivo `pegar_posicao.py`.
 
@@ -72,7 +71,7 @@ O arquivo `produtos.csv` deve conter as seguintes colunas:
 
 5. Verifique se os produtos estão sendo cadastrados corretamente no sistema.
 
-## ⚠️Atenção: Como Cancelar a Execução
+### ⚠️Atenção: Como Cancelar a Execução
 
 O `pyautogui` controla o mouse e o teclado automaticamente, o que pode dificultar o uso do computador enquanto o código está em execução. Para interromper o script:
 
